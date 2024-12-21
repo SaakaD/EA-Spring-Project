@@ -1,7 +1,7 @@
 # EA-Spring-Project
 Prescription Management System 
 Background
-Prescription Management System (PMS) is designed to automate the management of prescriptions for a pharmacy named "Drugs for You." The system keeps track of customer information, prescription history, and medications stocked by the pharmacy. The goal is to facilitate efficient tracking of patient prescriptions and medication dispensing.
+Medication Management System (PMS) is designed to automate the management of prescriptions for a pharmacy named "Drugs for You." The system keeps track of customer information, prescription history, and medications stocked by the pharmacy. The goal is to facilitate efficient tracking of patient prescriptions and medication dispensing.
 The system must track the following information:
 Patient Information
 i.	Patient’s name
@@ -16,14 +16,10 @@ i.	Unique prescription ID number assigned by the pharmacy
 ii.	Medication prescribed
 iii.	Prescribing physician’s name and telephone number
 iv.	Date of issue
-v.	Expiration date
-vi.	Number of refills authorized
+
 
 Medication Information
 i.	Medication name
-ii.	Unit by which it is prescribed (e.g., pills, teaspoons, ml)
-iii.	Generic equivalents, if available
-iv.	Common side effects of the medication
 
 System Queries
 The system must support several queries, which may result in either hard-copy reports or be viewed online:
